@@ -3,6 +3,7 @@
 ### About
 Sudoku Solver is a Python application created with Tkinter that allows the user to enter a sudoku puzzle and have it solved almost instantly with the result being displayed in a grid interface.
 It first attempts to solve the puzzle by putting it through a set of rules such as ‘only one of each number in a 3x3 box’. If this isn’t enough to solve the puzzle, it then using a backtracking algorithm where it puts various numbers into the grid, swapping them for alternatives if any issues are encountered.
+<br>
 **Please note: If the solve button is clicked and no solution is generated, the puzzle is currently unable to be solved. In the future, I hope to improve upon my code so that a greater range of more difficult puzzles can be solved effectively.**
 
 ### Motivation
