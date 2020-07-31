@@ -9,7 +9,7 @@ It first attempts to solve the puzzle by putting it through a set of rules such 
 ### Motivation
 After looking around for similar projects, I realised that a vast majority of existing sudoku solvers require the user to enter the puzzle in the form of a 2D array which I thought may be confusing for those who don’t program themselves. Therefore, I decided to use Tkinter to create a sudoku solver that allows the user to enter their puzzle into a sudoku grid and have their solution displayed in the same way.
 
-### Screenshots
+### Screenshots <br>
 **Sudoku before being solved:**
 ![Sudoku before being solved](sudokuBefore.png)
 **Sudoku after being solved:**
