@@ -11,18 +11,18 @@ After looking around for similar projects, I realised that a vast majority of ex
 
 ### Screenshots
 **Sudoku before being solved:**
-! Sudoku before being solved (sudokuBefore.png)
+![Sudoku before being solved](sudokuBefore.png)
 **Sudoku after being solved:**
-! Sudoku after being solved (sudokuAfter.png)
+![Sudoku after being solved](sudokuAfter.png)
 
 ### Packages
-**Built with **:
--Tkinter(https://docs.python.org/3/library/tkinter.html)
+**Built with:**
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 ### Installation
 In order for the python program to run the following packages/modules must be installed on the system:
--Tkinter(https://docs.python.org/3/library/tkinter.html)
--collections(https://docs.python.org/2/library/collections.html)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [collections](https://docs.python.org/2/library/collections.html)
 
 ### Status
 The sudoku solver is functional however in the future I would like to increase the size of the bank of rules that it uses and the efficiency of the backtracking algorithm so it can solve a greater range of puzzles. 
